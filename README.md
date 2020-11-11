@@ -1,4 +1,3 @@
-# octave-analytics-challenge
 <h1>Octave analytic challenge on data mining</h1>
 
 This challenge was organized by octave analytics as a prequalification for their graduate trainee programme on Data Scaience field.
